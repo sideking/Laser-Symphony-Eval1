@@ -1,5 +1,5 @@
-# docsify-modele-classique
-modèle de page docsify pour une publication via page sans actions 
+# Documentation de Laser Symphony
+![installation]()
 
 
 ## premier titre 2
