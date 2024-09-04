@@ -1,1 +1,1 @@
-Ce dossier contien les image ayant rapport avec le projet Laser Symphony
+Ce dossier contien les images ayant rapport avec le projet Laser Symphony
