@@ -1,17 +1,22 @@
-# Documentation de Laser Symphony
+# Documentation de Laser Symphony par Onda
 ![installation](Media/Images/Laser_symphony_instalation.png)
 L'installation de Laser Symphony dans la cour du pavillon des Sciences biologiques à l'UQAM.
 
 
-## Compagnie : Onda 
+## Compagnie : [Onda](https://ondastudio.art/) 
 
 > Onda est un studio italien d'art numérique réunissant artistes visuels, musicien·ne·s, programmeur·rice·s et architectes. Ce studio crée des œuvres audiovisuelles interactives inspirées par la nature, les espaces urbains et les comportements sociaux. Onda explore la condition humaine à l'ère numérique, offrant des expériences immersives qui réinventent la relation avec l'art et l'environnement.
 
 [Source : site du village numérique](https://village-numerique.mutek.org/fr/installations/laser-symphony-par-onda)
 
 
-### Présenté par : CR34TE
-### En cloaboration avec : AreaOdeon 
+## Présenté par : [CR34TE](https://cr34te.ca/)
+
+>Notre mission est d’offrir à nos clients, à nos partenaires ainsi qu’à nos collaborateurs, un accompagnement de qualité personnalisé dans l’idéation de leurs projets lumineux les plus ambitieux. C’est en partageant nos connaissances, notre savoir faire ainsi que nos solutions novatrices que nous arrivons à faire la différence dans la création, la réalisation et la mise en place d’installations lumineuses temporaires  (location) ou permanentes (vente) .
+
+[Source : site de CR34TE](https://cr34te.ca/a-propos/)
+
+## En cloaboration avec : [AreaOdeon](https://www.areaodeon.org/en/) (site inaccessible)
 https://village-numerique.mutek.org/fr/installations/laser-symphony-par-onda
 https://ondastudio.art/portfolio/laser-symphony/
 https://tim-montmorency.com/582523-gestion/#/activites/2_corpus_multimedia/README?id=qui-
