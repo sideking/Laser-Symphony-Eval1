@@ -10,6 +10,13 @@ L'installation de Laser Symphony dans la cour du pavillon des Sciences biologiqu
 
 [Source : site du village numérique](https://village-numerique.mutek.org/fr/installations/laser-symphony-par-onda)
 
+### Crédits 
+
+#### Marcello Arosio <br>
+![Marcello Arosio](Media/Images/Marcello_Arosio.jpg)
+
+#### Davide Cappelletti <br>
+[Portfolio de Davide Cappelletti](https://zipzupzap.com/#portfolio)
 
 ### Présenté par : [CR34TE](https://cr34te.ca/)
 
@@ -48,21 +55,26 @@ Laser Symphony à aussi été présenté à Riga en 2017, à Messine en 2017, à
 
 ## Lieux pertinents 
 
-La première présentation à eu lieu en 2017 à Crémone, une ville en Italie.
+La première présentation à eu lieu en 2017 à Crémone, une ville en Italie. L'oeuvre ne semble pas avoir été influencé par une culture
 
+Laser Symphony à aussi été présenté à Riga en 2017, à Messine en 2017, à Torun en 2018, Leeuwarden en 2021 et à Québec en 2024
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+## Description et autres
+
+Aucune information est disponible pour l'exposition de 2024, mais la façon dont l'oeuvre est montré a chaque fois est similaire. Voici quelques photo du site du Village numérique pour l'exposition de 2024 : <br>
+![installation](Media/Images/Laser_symphony_instalation.png) <br>
+![installation](Media/Images/LaserSymphony-Torun.png) <br>
+Malheureusement, les deux photos sur le site semblent être de l'exposition a Torun en 2018.
+
+L'oeuvre est constitué de faisceaux lumineux qui produisent une variété de sons lors d'une interaction et de projections laser qui illuminent les batiments autour de l'oeuvre. Cette combination audio-visuelle crée une symphonie de lumières et de sons qui se renouvelle avec chaque interaction du public.
+
+Voici une petite video de 2018 pour mieux comprendre la combinaison de l'audio avec les laser: <br>
+[Courte Video de l'exposition en 2018](https://vimeo.com/316975651)
+
+Laser Symphony crée un dialogue intime entre l'environment, l'art et le public.
+
 
 checklist :
-
-
-**Où ?**
-(Contexte de présentation)
-
--Lieu de présentation initiale : Mentionnez l'endroit où l'œuvre a été présentée pour la première fois (galerie, musée, festival, en ligne, etc.).
--Contexte géographique et culturel : Donnez des détails sur le cadre culturel ou géographique qui a influencé la présentation de l'œuvre. Par exemple, si l'œuvre a été conçue pour un public spécifique ou si elle reflète des aspects culturels particuliers.
--Autres lieux de présentation : Si l'œuvre a été présentée en plusieurs endroits, énumérez ces lieux avec les dates correspondantes.
-
 
 **Quoi ?**
 (Description de l'œuvre)
