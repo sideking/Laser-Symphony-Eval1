@@ -101,15 +101,14 @@ Lorsque les lasers sont déclancher par le public, des lasers et lumières sont 
 
 L'impact de cette composante est évidante, non seulement elle se comprend assez facilement, elle encourage les gens a continuer d'intéragir en explorant. Il est très facile de voir les changement dû à l'interaction avec les lasers.
 
-checklist :
+## Appréciation et commentaire personnel
 
-**Comment ?**
-(Une composante centrale à l'œuvre et son fonctionnement)
+Ma raison pour avoir choisit cette oeuvre est assez simple, les photos des installations étaient attrayante au regard. Après des recherches plus approfondies, je suis triste d'apprendre que la documentation des site sont désastreux et qu'en plus le site de l'un de leurs collaborateur principal ne fonctionne plus pour une raison qui me dépasse.
 
--Composante centrale : Identifiez l'élément clé qui caractérise l'œuvre. Cela pourrait être une technologie spécifique, une approche narrative, ou une interaction particulière avec le public.
--Fonctionnement : Expliquez comment cette composante centrale opère dans l'œuvre. Comment contribue-t-elle à l'expérience globale ? Quel rôle joue-t-elle dans l'engagement du public ou dans l'atteinte des objectifs de l'œuvre ?
--Impact : Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
+![Site d'AreaOdeon](Media/Images/site_AreaOdeon.png) <br>
+Photo du site d'AreaOdeon au moment du travail
+
+J'aurais aimé être présent lors de la présentation pour pouvoir mieux comprendre l'oeuvre et pour pouvoir jouer avec aussi avec les laser :disappointed:
 
 
-**Appréciation et commentaire personnel**
-( Pourquoi avoir choisi cette oeuvre)
+
