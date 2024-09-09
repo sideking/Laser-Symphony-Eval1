@@ -19,9 +19,13 @@ L'installation de Laser Symphony dans la cour du pavillon des Sciences biologiqu
 
 ### En collaboration avec : [AreaOdeon](https://www.areaodeon.org/en/) (site inaccessible)
 
-J'imagine que toute les informations d'AreaOdeon sont sur leur site, car je n'ai rien trouvé.
+>Fondée en 2005, AreaOdeon promeut l'expérimentation et la recherche appliquées à l'art et à la culture contemporaine, définies comme des véhicules d'implication et de participation active du public, dans un horizon de collaborations continues avec des partenaires nationaux et internationaux. <br>
+>Au fil des années, AreaOdeon a orienté ses recherches vers le contexte multimédia, audiovisuel et interactif, créant et promouvant des événements, des installations, des performances de mapping audiovisuel 3D qui mettent particulièrement l'accent sur la relation étroite entre les arts visuels, l'excellence architecturale, les contextes culturels et le patrimoine historique.<br>
+>Dans ce contexte, s'inscrit Kernel Festival, plateforme internationale dédiée aux expressions de l'art contemporain liées à l'expérimentation technologique et à la valorisation du patrimoine historique et architectural, entièrement conçue, développée et réalisée par AreaOdeon.
 
-### Partenaires :
+[LinkediIn d'AreaOdeon](https://fr.linkedin.com/company/areaodeon)
+
+### Partenaires 
 
 [Conseil des arts du canada](https://conseildesarts.ca/) <br>
 [MTLAB](https://mtlab.ca/) <br>
@@ -44,12 +48,10 @@ Laser Symphony à aussi été présenté à Riga en 2017, à Messine en 2017, à
 
 ## Lieux pertinents 
 
+La première présentation à eu lieu en 2017 à Crémone, une ville en Italie.
 
 
-https://village-numerique.mutek.org/fr/installations/laser-symphony-par-onda
-https://ondastudio.art/portfolio/laser-symphony/
-https://tim-montmorency.com/582523-gestion/#/activites/2_corpus_multimedia/README?id=qui-
-https://camo.githubusercontent.com/4a1d4cfa6596ba381fb749543de3af192e7b490492a0a1661a1646df41ad347b/68747470733a2f2f73332d65752d776573742d312e616d617a6f6e6177732e636f6d2f69682d6d6174657269616c732f75706c6f6164732f75706c6f61645f63626237346161393939666565386163326463636637373638396564363062342e706e67
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 checklist :
 
