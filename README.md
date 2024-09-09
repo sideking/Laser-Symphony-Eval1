@@ -61,30 +61,47 @@ Laser Symphony à aussi été présenté à Riga en 2017, à Messine en 2017, à
 
 ## Description et autres
 
+### Description générale 
+
 Aucune information est disponible pour l'exposition de 2024, mais la façon dont l'oeuvre est montré a chaque fois est similaire. Voici quelques photo du site du Village numérique pour l'exposition de 2024 : <br>
 ![installation](Media/Images/Laser_symphony_instalation.png) <br>
 ![installation](Media/Images/LaserSymphony-Torun.png) <br>
 Malheureusement, les deux photos sur le site semblent être de l'exposition a Torun en 2018.
 
-L'oeuvre est constitué de faisceaux lumineux qui produisent une variété de sons lors d'une interaction et de projections laser qui illuminent les batiments autour de l'oeuvre. Cette combination audio-visuelle crée une symphonie de lumières et de sons qui se renouvelle avec chaque interaction du public.
+L'oeuvre est constitué de faisceaux lasers qui produisent une variété de sons lors d'une interaction et de projections laser qui illuminent les batiments autour de l'oeuvre. Cette combination audio-visuelle crée une symphonie de lumières et de sons qui se renouvelle avec chaque interaction du public.
 
 Voici une petite video de 2018 pour mieux comprendre la combinaison de l'audio avec les laser: <br>
 [Courte Video de l'exposition en 2018](https://vimeo.com/316975651)
 
-Laser Symphony crée un dialogue intime entre l'environment, l'art et le public.
+### Objectif et Public cible
 
+Laser Symphony crée un dialogue intime entre l'environment, l'art et le public en fusionnanttechnologie et architecture. Il a aussi pour but de venir augmenter la géométrie et les détails des batiments environnant.
+
+>Laser Symphony invite à une réflexion sur notre relation à l'espace, à la technologie et à l'art interactif, tout en célébrant la beauté de l'architecture et de la nature environnante. <br>
+
+[Source : site du village numérique](https://village-numerique.mutek.org/fr/installations/laser-symphony-par-onda)
+
+Le public cible seraient ceux voulant explorer redécouvrir un lieu sous un nouvel angle.
+
+### Aspects Aspects et Processus de création
+
+Il n'y a malheureusement pas vraiment d'information sur les aspects techniques de Laser Symphony. Il est par contre clair qu'il y a des détecteur pour vérifier quand les laser sont traversés, car ceci active des lumières et part des sons spatialisés dans l'environnement. 
+
+## Composante et Fonctionnements
+
+### Composante centrale
+
+Les laser font part entière de cette oeuvre, il serait presque possible de dire qu'ils font toute l'oeuvre car sans eux il n'y aurait plus rien. Bien évidemment, les détecteurs fonctionnent en pair avec les lasers.
+
+### Fonctionnement 
+
+Lorsque les lasers sont déclancher par le public, des lasers et lumières sont projeté sur les murs proche et des sons sont apparaissent dans l'instalation.
+
+### Impact 
+
+L'impact de cette composante est évidante, non seulement elle se comprend assez facilement, elle encourage les gens a continuer d'intéragir en explorant. Il est très facile de voir les changement dû à l'interaction avec les lasers.
 
 checklist :
-
-**Quoi ?**
-(Description de l'œuvre)
-
--Description générale : Donnez une vue d'ensemble de l'œuvre. Qu'est-ce que c'est ? (installation, performance, vidéo, réalité virtuelle, etc.)
--Objectifs de l'œuvre : Expliquez les intentions de l'auteur ou de l'équipe. Quel message ou expérience souhaite-t-elle transmettre ?
--Public cible : Qui est le public visé par cette œuvre ?
--Aspects techniques : Décrivez les aspects techniques importants, comme les technologies utilisées, les supports ou les médiums exploités.
--Processus de création : Fournissez des détails sur la manière dont l'œuvre a été développée. Cela peut inclure des éléments comme l'écriture du scénario, la composition musicale, la programmation, etc.
-
 
 **Comment ?**
 (Une composante centrale à l'œuvre et son fonctionnement)
