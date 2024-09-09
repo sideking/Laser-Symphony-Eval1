@@ -1,5 +1,5 @@
 # Documentation de Laser Symphony par Onda
-![installation](Media/Images/Laser_symphony_instalation.png)
+![installation](Media/Images/Laser_symphony_instalation.png) <br>
 L'installation de Laser Symphony dans la cour du pavillon des Sciences biologiques à l'UQAM.
 
 ## Créateurs et Collaborateurs
