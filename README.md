@@ -66,7 +66,7 @@ Laser Symphony à aussi été présenté à Riga en 2017, à Messine en 2017, à
 Aucune information n’est disponible pour l'exposition de 2024, mais la façon dont l'œuvre est montrée à chaque fois est similaire. Voici quelques photos du site du Village numériques pour l'exposition de 2024 : <br>
 ![installation](Media/Images/Laser_symphony_instalation.png) <br>
 ![installation](Media/Images/LaserSymphony-Torun.png) <br>
-malheureusement, les deux photos sur le site semblent être de l'exposition a Torun en 2018.
+malheureusement, les deux photos sur le site semblent être de l'exposition a Torun en 2018. <br>
 [Source : site du village numérique](https://village-numerique.mutek.org/fr/installations/laser-symphony-par-onda)
 
 L'œuvre est constituée de faisceaux lasers qui produisent une variété de sons lors d'une interaction et de projections laser qui illuminent les bâtiments autour de l'œuvre. Cette combination audiovisuelle crée une symphonie de lumières et de sons qui se renouvelle avec chaque interaction du public.
