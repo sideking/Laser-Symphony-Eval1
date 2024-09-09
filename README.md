@@ -2,6 +2,7 @@
 ![installation](Media/Images/Laser_symphony_instalation.png)
 L'installation de Laser Symphony dans la cour du pavillon des Sciences biologiques à l'UQAM.
 
+## Créateurs et Collaborateurs
 
 ### Compagnie : [Onda](https://ondastudio.art/) 
 
@@ -16,15 +17,32 @@ L'installation de Laser Symphony dans la cour du pavillon des Sciences biologiqu
 
 [Source : site de CR34TE](https://cr34te.ca/a-propos/)
 
-### En cloaboration avec : [AreaOdeon](https://www.areaodeon.org/en/) (site inaccessible)
+### En collaboration avec : [AreaOdeon](https://www.areaodeon.org/en/) (site inaccessible)
 
-j'imagine que toute les informations d'AreaOdeon sont sur leur site, car je n'ai rien trouvé.
+J'imagine que toute les informations d'AreaOdeon sont sur leur site, car je n'ai rien trouvé.
 
+### Partenaires :
+
+[Conseil des arts du canada](https://conseildesarts.ca/) <br>
+[MTLAB](https://mtlab.ca/) <br>
+[Montréal](https://montreal.ca/) <br>
+[Tourisme Montréal](https://www.mtl.org/fr) <br>
+[Istituto Italiano di Cultura di Montreal](https://iicmontreal.esteri.it/fr/) (Institut Culturel Italien de Montréal) <br>
+[Place des Arts](https://placedesarts.com/fr) <br>
+[UQAM](https://uqam.ca/) <br>
+[Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/) <br>
+[La Presse](https://www.lapresse.ca/) <br>
+[Gouvernement du Québec](https://www.quebec.ca/) 
 
 ## Dates pertinentes
 
 ### Date de création :
 
+Vers 2017? Je n'ai trouvé aucune information sur la date de création exacte, mais la première présentations à été en 2017 à Crémone, Italie.
+
+Laser Symphony à aussi été présenté à Riga en 2017, à Messine en 2017, à Torun en 2018, Leeuwarden en 2021 et à Québec en 2024
+
+## Lieux pertinents 
 
 
 
@@ -34,13 +52,6 @@ https://tim-montmorency.com/582523-gestion/#/activites/2_corpus_multimedia/READM
 https://camo.githubusercontent.com/4a1d4cfa6596ba381fb749543de3af192e7b490492a0a1661a1646df41ad347b/68747470733a2f2f73332d65752d776573742d312e616d617a6f6e6177732e636f6d2f69682d6d6174657269616c732f75706c6f6164732f75706c6f61645f63626237346161393939666565386163326463636637373638396564363062342e706e67
 
 checklist :
-
-**Quand ?**
-(Date de création et de présentation)
-
--Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
--Date de première présentation : Indiquez la date à laquelle l'œuvre a été présentée au public pour la première fois.
--Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
 
 
 **Où ?**
